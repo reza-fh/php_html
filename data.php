@@ -24,16 +24,9 @@
                                                 "Udin"=>["Khoirudin","Sukorejo","05/09/2003",false]
                                             ];
                                                   
-                                            // foreach($data_siswa as $key=>$value)
-                                            // {
-                                            //     if($value[3]){
-                                            //     echo "$value[0] \t sudah lulus \n";
-                                            //     }
-                                            //     else{
-                                            //     echo "$value[0] \t belum lulus \n";
-                                            //     }
-                                            // }
-                                                
+ $data_slider=["asset/image/slider/slider-1.jpg","asset/image/slider/slider-1.jpg","asset/image/slider/slider-1.jpg"];
+
+ ?>
                                                 
                                                 
                                                 
